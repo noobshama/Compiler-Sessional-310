@@ -1,0 +1,55 @@
+Hash Function: SDBM
+Scope Count: 8
+Collision Count: 4
+Bucket Size: 7
+Qality : 0.571429
+Mean : 0.0714286
+-----------------------------------
+Hash Function: SDBM
+Scope Count: 8
+Collision Count: 4
+Bucket Size: 7
+Qality : 0.571429
+Mean : 0.0714286
+-----------------------------------
+[DONE] SDBM
+-----------------------------------
+Hash Function: Murmur
+Scope Count: 8
+Collision Count: 6
+Bucket Size: 7
+Qality : 0.857143
+Mean : 0.107143
+-----------------------------------
+[DONE] Murmur
+-----------------------------------
+Hash Function: FNV1a
+Scope Count: 8
+Collision Count: 1
+Bucket Size: 7
+Qality : 0.142857
+Mean : 0.0178571
+-----------------------------------
+[DONE] FNV1a
+-----------------------------------
+Hash Function: SDBM
+Scope Count: 8
+Collision Count: 7
+Bucket Size: 7
+Qality : 1
+Mean : 0.125
+-----------------------------------
+Hash Function: SDBM
+Scope Count: 8
+Collision Count: 7
+Bucket Size: 7
+Qality : 1
+Mean : 0.125
+-----------------------------------
+Hash Function: SDBM
+Scope Count: 8
+Collision Count: 7
+Bucket Size: 7
+Qality : 1
+Mean : 0.125
+-----------------------------------
